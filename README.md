@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HIRICH Oussama</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://www.pinterest.fr/pin/306878162125491837/" alt="h-ouss" /> </p>
+<p align="left"> <img src="[https://www.pinterest.fr/pin/306878162125491837/](https://www.tumblr.com/7her4ja/747242887703560192?source=share)" alt="h-ouss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-ouss" alt="h-ouss" /></a> </p>
 
