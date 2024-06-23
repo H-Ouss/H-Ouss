@@ -1,16 +1,16 @@
-[<div align="center">
-  <img height="308" src="https://i.pinimg.com/736x/0e/b8/0b/0eb80be7ab6cebe94694c3c516fe6c07.jpg"  />
+<div align="center">
+  <img height="312" src="https://i.pinimg.com/736x/b5/93/c6/b593c6dcafdedcdd949ce8b6ebba4d21.jpg"  />
 </div>
+
+###
+
+<h1 align="center">Heeey 👋! Am HIRICH Oussama welcome to my profile</h1>
 
 ###
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=H-Ouss.H-Ouss&left_color=black&right_color=grey"  />
 </div>
-
-###
-
-<h1 align="center">Heeey 👋! Am HIRICH Oussama welcome to my profile</h1>
 
 ###
 
@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/oussama-hirich/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/users/608844851257147403" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/oussama.hirich/" target="_blank">
@@ -81,10 +81,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Ouss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=H-Ouss&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H-Ouss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Ouss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=H-Ouss&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=15" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H-Ouss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
-](https://i.pinimg.com/736x/0e/b8/0b/0eb80be7ab6cebe94694c3c516fe6c07.jpg)
