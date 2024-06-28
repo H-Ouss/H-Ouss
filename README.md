@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-  <img src="https:/ /visitor-badge.laobi.icu/badge?page_id=H-Ouss.H-Ouss&left_color=black&right_color=grey"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=H-Ouss.H-Ouss&left_color=black&right_color=grey"  />
 </div>
 
 ###
